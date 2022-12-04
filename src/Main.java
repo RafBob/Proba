@@ -5,5 +5,6 @@ public class Main {
 
         ANIMAL dog = new ANIMAL("canis");
         System.out.println(dog.weight);
+        System.out.println();
     }
 }
